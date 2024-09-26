@@ -1,6 +1,8 @@
 # ¡Hola! mi nombre es Rodrido Solis
 
-Full stack developer / Creative Developer / Web UI developer / UI designer /   :man_technologist:
+Full stack developer / Creative Developer / Web UI developer / UI designer /  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roddsolis&layout=compact)
 
 ## Tech & Tools Preference
 
