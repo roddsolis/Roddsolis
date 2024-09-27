@@ -73,10 +73,14 @@ resolver problemas complejos y colaborar con equipos multidisciplinarios para cr
 </a> 
 <a href="https://github.com/roddsolis">
 <img src="https://img.shields.io/badge/Photoshop-F24E1E?style=for-the-badge&logo=phostohop&logoColor=white">
-</a> 
+</a>
+
 <br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roddsolis&layout=compact)
+
 <br>
+
 ## Links de interés
 <span>
 <a href="https://www.linkedin.com/in/rodrigo-solis-030714a9/">
