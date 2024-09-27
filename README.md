@@ -1,6 +1,7 @@
+![image](https://github.com/user-attachments/assets/a459d9a8-547a-4352-901a-62fe4badc4dc)
 
-
-<img src="/workspaces/roddsolis/github-cover2.png">
+<img src="![image](https://github.com/user-attachments/assets/b1b9e539-fc2e-433c-a64f-63869e896e38)
+">
 
 Full stack developer / Creative Developer / Web UI developer / UI designer 
 
@@ -78,6 +79,7 @@ resolver problemas complejos y colaborando con equipos multidisciplinarios para 
 <img src="https://img.shields.io/badge/Photoshop-F24E1E?style=for-the-badge&logo=phostohop&logoColor=white">
 </a> 
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roddsolis&layout=compact)
 
 
@@ -92,4 +94,4 @@ resolver problemas complejos y colaborando con equipos multidisciplinarios para 
 <a href="https://www.figma.com/design/yLC6YCmDDVXCYKScSXxXpw/Proyectos-UI?node-id=1550-2&t=q7LvONnzknUz6Zga-1">Portafolio Figma</a>
 
 ### CV
-<a href="https://www.linkedin.com/in/rodrigo-solis-030714a9/"></a> 
+<a href="https://www.figma.com/proto/yLC6YCmDDVXCYKScSXxXpw/Proyectos-UI?page-id=8%3A248&node-id=1760-115425&node-type=frame&viewport=-30%2C615%2C0.24&t=baSyDQruMA0s3qY0-8&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1760%3A115425&show-proto-sidebar=1&hotspot-hints=0&disable-default-keyboard-nav=1&hide-ui=1">CV Rodd Solis</a> 
