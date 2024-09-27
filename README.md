@@ -1,14 +1,12 @@
 
 
-<img src="https://raw.githubusercontent.com/roddsolis/roddsolis/refs/heads/main/github-cover.png"> 
+<img src="https://raw.githubusercontent.com/roddsolis/roddsolis/refs/heads/main/github-cover.png">
+
+Full stack developer / Creative Developer / Web UI developer / UI designer 
 
 # ¡Hola! mi nombre es Rodrido Solis
 
-Full stack developer / Creative Developer / Web UI developer / UI designer /  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roddsolis&layout=compact)
-
-## Tech & Tools Preference
+## Es apasionado por la tecnología y siempre está buscando nuevas oportunidades para expandir sus conocimientos. Disfruta resolviendo problemas complejos y colaborando con equipos multidisciplinarios para crear soluciones innovadoras.
 
 #### Lenguajes
 <a href="https://github.com/roddsolis">
@@ -78,3 +76,5 @@ Full stack developer / Creative Developer / Web UI developer / UI designer /
 <a href="https://github.com/roddsolis">
 <img src="https://img.shields.io/badge/Photoshop-F24E1E?style=for-the-badge&logo=phostohop&logoColor=white">
 </a> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roddsolis&layout=compact)
