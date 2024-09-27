@@ -1,3 +1,7 @@
+
+
+<img src="https://raw.githubusercontent.com/roddsolis/roddsolis/refs/heads/main/github-cover.png"> 
+
 # ¡Hola! mi nombre es Rodrido Solis
 
 Full stack developer / Creative Developer / Web UI developer / UI designer /  
