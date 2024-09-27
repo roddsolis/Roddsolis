@@ -1,12 +1,13 @@
 
 
-<img src="https://github.dev/roddsolis/roddsolis/blob/main/github-cover.png">
+<img src="/workspaces/roddsolis/github-cover2.png">
 
 Full stack developer / Creative Developer / Web UI developer / UI designer 
 
 # ¡Hola! mi nombre es Rodrido Solis
 
-## Es apasionado por la tecnología y siempre está buscando nuevas oportunidades para expandir sus conocimientos. Disfruta resolviendo problemas complejos y colaborando con equipos multidisciplinarios para crear soluciones innovadoras.
+Desarrollador fullstack y diseñador UI apasionado por la tecnología y el diseño visual, siempre buscando nuevas oportunidades para expandir conocimientos. 
+resolver problemas complejos y colaborando con equipos multidisciplinarios para crear soluciones innovadoras.
 
 #### Lenguajes
 <a href="https://github.com/roddsolis">
@@ -78,3 +79,17 @@ Full stack developer / Creative Developer / Web UI developer / UI designer
 </a> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roddsolis&layout=compact)
+
+
+## Links de interes
+
+### Redes 
+<a href="https://www.linkedin.com/in/rodrigo-solis-030714a9/">
+<img src="https://img.shields.io/badge/Linkedin-F24E1E?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
+
+### Portafolio
+<a href="https://www.figma.com/design/yLC6YCmDDVXCYKScSXxXpw/Proyectos-UI?node-id=1550-2&t=q7LvONnzknUz6Zga-1">Portafolio Figma</a>
+
+### CV
+<a href="https://www.linkedin.com/in/rodrigo-solis-030714a9/"></a> 
