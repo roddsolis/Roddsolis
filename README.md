@@ -78,17 +78,18 @@ resolver problemas complejos y colaborar con equipos multidisciplinarios para cr
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roddsolis&layout=compact)
 
 ## Links de interés
-
-### Redes
 <span>
+### Redes
 <a href="https://www.linkedin.com/in/rodrigo-solis-030714a9/">
 <img src="https://img.shields.io/badge/Linkedin-F24E1E?style=for-the-badge&logo=linkedin&logoColor=white">
 </a> 
-
+</span>
+<span>
 ### Portafolio
 <a href="https://www.figma.com/design/yLC6YCmDDVXCYKScSXxXpw/Proyectos-UI?node-id=1550-2&t=q7LvONnzknUz6Zga-1">Portafolio Figma</a>
-
+</span>
+<span>
 ### CV
 <a href="https://www.figma.com/proto/yLC6YCmDDVXCYKScSXxXpw/Proyectos-UI?page-id=8%3A248&node-id=1760-115425&node-type=frame&viewport=-30%2C615%2C0.24&t=baSyDQruMA0s3qY0-8&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1760%3A115425&show-proto-sidebar=1&hotspot-hints=0&disable-default-keyboard-nav=1&hide-ui=1">CV Rodd Solis</a> 
-
 </span>
+
