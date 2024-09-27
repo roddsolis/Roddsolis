@@ -6,7 +6,7 @@
 Full stack developer / Creative Developer / Web UI developer / UI designer 
 
 # ¡Hola! mi nombre es Rodrido Solis
-<p style="color:gray;">
+<p style="color:Darkgray;">
 Desarrollador fullstack y diseñador UI apasionado por la tecnología y el diseño visual, siempre buscando nuevas oportunidades para expandir conocimientos, 
 resolver problemas complejos y colaborar con equipos multidisciplinarios para crear soluciones innovadoras.
 </p>
