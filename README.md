@@ -90,4 +90,6 @@ resolver problemas complejos y colaborar con equipos multidisciplinarios para cr
 <a href="https://www.figma.com/proto/yLC6YCmDDVXCYKScSXxXpw/Proyectos-UI?page-id=8%3A248&node-id=1760-115425&node-type=frame&viewport=-30%2C615%2C0.24&t=baSyDQruMA0s3qY0-8&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1760%3A115425&show-proto-sidebar=1&hotspot-hints=0&disable-default-keyboard-nav=1&hide-ui=1">CV Rodd Solis</a> 
 </span>
 
+#
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roddsolis&layout=compact)
