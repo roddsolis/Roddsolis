@@ -92,4 +92,4 @@ resolver problemas complejos y colaborar con equipos multidisciplinarios para cr
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roddsolis&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roddsolis&layout=compact)]
