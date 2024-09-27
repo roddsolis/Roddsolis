@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/roddsolis/roddsolis/refs/heads/main/github-cover.png">
+<img src="https://github.dev/roddsolis/roddsolis/blob/main/github-cover.png">
 
 Full stack developer / Creative Developer / Web UI developer / UI designer 
 
