@@ -80,7 +80,6 @@ resolver problemas complejos y colaborar con equipos multidisciplinarios para cr
 ## Links de interés
 
 ### Redes
-<ul>
 <span>
 <a href="https://www.linkedin.com/in/rodrigo-solis-030714a9/">
 <img src="https://img.shields.io/badge/Linkedin-F24E1E?style=for-the-badge&logo=linkedin&logoColor=white">
